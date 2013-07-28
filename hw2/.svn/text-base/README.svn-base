@@ -1,0 +1,14 @@
+Jacob Sachs
+Homework 2
+Generalized Tic Tac Toe
+
+The program souce is located in "tic_tac_toe.py".  For testing purposes,
+a standard tic tac toe board is located in "regular.txt".
+
+To run the program, type "python tic_tac_toe.py <testfile.txt>".  This will
+allow the user to play interactively.  Computer moves first, playing X,
+while the user plays O.  Moves are made by entering an integer value from
+among the list of valid moves.
+
+It is assumed the User knows the winning paths from the input file.
+This allows the game to be played in the most generalized fashion.

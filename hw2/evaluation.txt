@@ -1,0 +1,14 @@
+Evaluation 2:
+Tic Tac Toe assignment
+
+1. Alpha-beta pruning algorithm: 5/5
+2. Efficiency: 1/2
+3. Works on large graphs: 1/2
+4. Others: 1/1
+
+Bonus: 
+1. Heuristic function: -/1.5
+2. Weighted path : -/2.5
+Total: 8/10 + -/4
+
+Grader: Mark Stoehr

@@ -1,0 +1,16 @@
+Jacob Sachs
+Homework 5
+Naive Bayes
+
+To run the code, simply type 'python main.py'.  This will execute both the test
+code used to cross-validate parameters, and classify the unknown documents
+using the selected parameters.  While the data used to make selections is
+printed to the standard out, tables and discussions are included in
+'writeup.pdf'.
+
+The test code will run twice; once for the main assignment, and a second time
+for the extra credit (as indicated on the standard out).
+
+While this is mentioned in the writeup, it is worth noting that most values of
+gamma seemed to work.  It's unclear if my algorithm was accidentally "too
+good", or if I messed something up elsewhere.

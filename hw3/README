@@ -1,0 +1,28 @@
+Jacob Sachs
+CMSC 25010
+Homework 3
+
+1. To run eigP, type 'python eigP.py <numvecs> <precision> <matrix.txt>'.
+It will output a file 'vecs.txt' containing the matrix U, and a file 'vals.txt'
+containing the column vector of the corresponding eigenvalues. If k = 1, the
+number of iterations will be printed to the standard output.
+
+2. To run svdP, type 'python svdP.py <numvecs> <precision> <matrix.txt>'.
+It outputs 'U.txt', 'V.txt', and 'S.txt'.  
+
+The code used to test the Frobenius norm is included at the end of the main,
+by simply printing the value to the standard out.  It was tested on the
+matrix int 'test1.txt'.  For the chosen matrix, past k=5, it would hang,
+when the eigenvalues were zero, I believe.
+
+3. To run genA, type 'python genA.py <numvecs> <probability>'.
+It then uses svd to attempt reconstruction, and prints the
+resulting Frobenius norm to the standard out.  The results of testing
+are presented in the write-up.
+
+4. To perform the latent semantic analysis, we use the code in 'lsa.py'.
+To run it, type 'python lsa.py <numvecs>'. This prints the Frobenius norm
+of the reconstructed matrix and the original to the standard output.
+
+As it stands, the code has not run to completion on part 4; the matrix
+appears to be too large, or does not converge.

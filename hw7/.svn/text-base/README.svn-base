@@ -1,0 +1,23 @@
+Jacob Sachs
+Homework 7
+SVM
+
+To run each problem, type 'python q1.py', 'python q2.py', and 'python q3.py',
+respectively.  These files are located in the src directory.
+
+Any relevant output figures are included in the writeup, but are also kept
+in the root directory with relevant file names.  The output of running
+the code for q3 is stored in a text file due to length.
+
+All other relevant information is in 'writeup.pdf'.
+
+I'll note that I'm not sure how correctly my part 3 operates (since it's
+very fast), but it runs.  The answers to the questions posed are shown in the
+writeup.
+
+I did not have time to test outlier data points.
+
+As a further addendum, at the time of submission, my code had not finished
+running.  I planned to have the above text file completed, but it
+did not complete.  Everything mentioned can be reproduced, but
+there just wasn't time.

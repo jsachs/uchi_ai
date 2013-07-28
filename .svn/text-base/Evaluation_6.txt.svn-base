@@ -1,0 +1,15 @@
+Evaluation 6:
+Message Passing Algorithm
+
+Code
+1. Correctness: 4/4
+2. Convergence: 2/2
+
+Write up
+1. Theta vs mu relation: 1.5/2 // you should plot the values to find the relation
+2. Maximum tolerance for noise: 1/1
+3. Sample tests: 1/1
+ 
+Total: 9.5/10 
+Grader: Nikita Mishra
+

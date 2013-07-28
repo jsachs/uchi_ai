@@ -1,0 +1,10 @@
+Jacob Sachs
+CS 25010
+HW-1
+
+The programs for each of the four searches are self-contained.  To test
+BFS, UCS, or DFS, simply type 'python <search.py> <costmatrix.txt>'.
+This will produce the specified 'searched.txt' and 'path.txt' files.
+
+For A*, type 'python astar.py <costmatrix.txt> <heurmatrix.txt>'.
+This will again produce the specified output files.

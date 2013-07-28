@@ -1,0 +1,21 @@
+Jacob Sachs
+HW4
+Perceptrons
+
+To run all of the necessary code for testing and to generate what is in the
+write-up, type 'python test.py'.
+
+Source for the perceptrons are in their respective python files.
+Testing code is located in the test file.
+
+'linear_online.txt' and 'kernel_online.py' are the files showing mistakes
+versus examples seen.  'test200.label.35.linear' and 'test200.label.35.kernel'
+are the label files after running the trained perceptrons.
+
+As a not to the grader, I'm not entirely sure that I judged my cross-validation
+correctly.  I used the sigma that gave me the best error rate, but I don't
+think I ultimately accounted for overfitting.
+
+As another aside, I'm somewhat confident that my batch mode for the kernel
+perceptron is wrong.  It was never clean from the class notes how to run
+it in iterations, so I took my best shot.

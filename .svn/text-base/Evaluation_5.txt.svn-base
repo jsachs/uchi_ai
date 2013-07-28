@@ -1,0 +1,20 @@
+Evaluation 4:
+Multinomial bag of words model for classification
+Well done!
+Code
+1. Correctness of code: 4/4
+2. Cross-validation: 2/2
+
+Writeup and results
+1. Description and parameter tuning(prior, capitalization, hyphen): 2/2
+2. Table for training documents: 1/1
+3. Table for unknown documents: 1/1
+
+
+Bonus
+1. Stopword removal: 1/1
+2. Stemming: -/1
+ 
+Total: 10/10 + 1/2
+Grader: Nikita Mishra
+

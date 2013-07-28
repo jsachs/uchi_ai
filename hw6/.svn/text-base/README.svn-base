@@ -1,0 +1,15 @@
+Jacob Sachs
+Homework 6
+Loopy BP
+
+To run the code, type 'python main.py'
+This will show a visual test, with a small and large disc,
+as well as print the results of several parameter tests.
+The paramater results can be seen on the standard out,
+and are discussed in the writeup.
+
+While the code is hardcoded to use premade test images, it can be
+easily modified within test.py to use other ASCII binary images.
+
+Test images are generated and stores as txt files so their fidelity
+can be verified.

@@ -1,0 +1,14 @@
+Evaluation 4:
+Perceptron Algorithm
+
+1. linear perceptron code: 4/4
+2. kernel perceptron code: 2/2
+3. plot of # mistakes for linear perceptron: 1/1
+4. plot of # mistakes for kernel perceptron: 1/1
+5. plot of cross validation error for kernel perceptron: 1/1 
+6. discussion on cycles: 1/1
+
+Bonus for full MNIST dataset: -/2 
+Total: 10/10 + -/2
+Grader: Mark Stoehr
+

@@ -1,0 +1,15 @@
+Evaluation 7:
+SVM Fun
+
+Code
+1. Visualiation: 1/1
+2. Cross validation for q3: 1/1
+
+Writeup and results 
+1. Plot for Question 1: 1/1
+2. Correct Datasets for Q2: 4/4
+3. Questions for Part 3: -/3 Couldn't find these
+ 
+Total: 7/10
+Grader: Mark Stoehr
+
